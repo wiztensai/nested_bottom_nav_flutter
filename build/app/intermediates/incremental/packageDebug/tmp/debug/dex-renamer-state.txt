@@ -1,0 +1,4 @@
+#Wed Apr 12 10:08:40 ICT 2023
+base.0=E\:\\My_Software_Project\\Flutter Project\\sample_nested_tab\\sample_nested_tab_autoroute\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
